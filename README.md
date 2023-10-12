@@ -12,6 +12,15 @@ The main feature is to visualize the MSA-Nose results in a graphical way. The ex
 * Node and npm installed in the machine.
 * `code` command should be installed if not using the default installation of VSCode and if using MacOS (which is not installed by default).
 
+## How to use
+
+* Clone the repository.
+* Run `start.sh` to install the extension and start the frontend server.
+* Run https://github.com/JSamoes/msa-nose to start the backend server.
+* Open a Java microservice project in VSCode.
+* A button should pop-up in the bottom right corner of the editor. Click on it to visualize the MSA-Nose results.
+
+
 ## Known Issues
 
 * Frontend is not well rendered and the size of the accordion is not well calculated.
